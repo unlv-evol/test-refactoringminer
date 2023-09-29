@@ -1,6 +1,6 @@
 package controller;
 
-public class Foo {
+public class Lot {
     private static int num = 1;
 
     // inner class
