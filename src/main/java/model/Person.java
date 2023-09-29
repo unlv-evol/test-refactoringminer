@@ -1,12 +1,9 @@
 package model;
 
-public class Person extends Mammal {
+public class Person {
     private String name;
-    private int phoneHome;
-    private int phoneOffice;
-    private int fax;
     private String address;
-
+    private Telephone telephone;
 
     public String getAddress(){
         return this.address;
