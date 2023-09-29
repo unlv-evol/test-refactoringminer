@@ -1,4 +1,4 @@
-package model;
+package blackbox.model;
 
 public class Lot {
     private static int num = 1;
