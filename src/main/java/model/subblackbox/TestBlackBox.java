@@ -1,4 +1,4 @@
-package blackbox.subblackbox;
+package model.subblackbox;
 
 public class TestBlackBox {
 }
