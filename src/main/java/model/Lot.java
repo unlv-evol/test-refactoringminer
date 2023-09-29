@@ -1,4 +1,4 @@
-package controller;
+package model;
 
 public class Lot {
     private static int num = 1;
