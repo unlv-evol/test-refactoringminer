@@ -1,4 +1,4 @@
-package blackbox.model;
+package model;
 
 public class Mammal {
 }

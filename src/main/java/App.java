@@ -3,7 +3,7 @@ import java.io.IOException;
 public class App {
     public static void main(String[] args) throws IOException {
 
-        // Testing blackbox.model.Foo
+        // Testing model.Foo
 //        Foo foo = new Foo();
 //        foo.displayInnerClasses();
 
