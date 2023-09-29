@@ -1,4 +1,4 @@
-package model;
+package blackbox.model;
 
 public class Person {
     private String name;

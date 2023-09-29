@@ -1,4 +1,4 @@
-package model;
+package blackbox.model;
 
 public class Telephone {
     private int phoneHome;
