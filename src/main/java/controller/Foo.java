@@ -1,3 +1,5 @@
+package controller;
+
 public class Foo {
     private static int num = 1;
 
@@ -9,7 +11,7 @@ public class Foo {
     }
 
     // Accessing the inner classes from the method within
-    void displayInnerClasses() {
+    public void displayInnerClasses() {
         InnerFoo1 innerFoo1 = new InnerFoo1();
         innerFoo1.print();
     }
