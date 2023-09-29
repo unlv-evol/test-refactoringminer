@@ -1,9 +1,9 @@
 import java.awt.*;
 
-class Painter
+class Circle
 {
     private Color myColor;
-    public Painter(Color c)
+    public Circle(Color c)
     {
         myColor = c;
         InitPainter(myColor);
@@ -11,13 +11,5 @@ class Painter
     private void InitPainter(Color color)
     {
         //init painter
-    }
-}
-class Circle
-{
-    private Painter myPainter;
-    public Circle(Color c)
-    {
-        myPainter = new Painter(c);
     }
 }
