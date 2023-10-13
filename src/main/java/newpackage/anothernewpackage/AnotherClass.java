@@ -1,4 +1,4 @@
-package anothernewpackage;
+package newpackage.anothernewpackage;
 
 import newpackage.NewClass;
 
