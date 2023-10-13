@@ -1,4 +1,6 @@
 package anothernewpackage;
 
-public class AnotherClass {
+import newpackage.NewClass;
+
+public class AnotherClass extends NewClass {
 }
